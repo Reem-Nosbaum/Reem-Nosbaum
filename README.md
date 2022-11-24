@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [flight-project](https://github.com/Reem-Nosbaum/final-project)
 
-- 🌱 I’m currently learning **Doker, Firebase**
+- 🌱 I’m currently learning **Docker, Firebase**
 
 - 💬 Ask me about **Python,Flask, React.js**
 
