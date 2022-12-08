@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **reemnu@gmail.com**
 
-- 📄 See my CV [https://github.com/Reem-Nosbaum/Reem-Nosbaum/blob/main/Reem%20Nosbaum%20-%20cv.pdf](https://github.com/Reem-Nosbaum/Reem-Nosbaum/blob/main/Reem%20Nosbaum%20-%20cv.pdf)
+-<a href='(https://github.com/Reem-Nosbaum/Reem-Nosbaum/blob/main/Reem%20Nosbaum%20-%20cv.pdf)'>📄 See my CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
