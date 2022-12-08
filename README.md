@@ -11,7 +11,6 @@
 
 - 📄 See my CV [here](https://github.com/Reem-Nosbaum/Reem-Nosbaum/blob/main/Reem%20Nosbaum%20-%20cv.pdf)
 
-(https://github.com/Reem-Nosbaum/Reem-Nosbaum/blob/main/Reem%20Nosbaum%20-%20cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
