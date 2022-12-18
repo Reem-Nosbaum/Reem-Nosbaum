@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reem Nosbaum</h1>
 <h3 align="center">A passionate Full-Stack developer from Israel</h3>
 
-- 🔭 I’m currently working on [flight-project](https://github.com/Reem-Nosbaum/final-project)
+- 🔭 I’m currently working on [postify_back](https://github.com/Reem-Nosbaum/postify_back)
 
 - 🌱 I’m currently learning **Docker, Firebase**
 
